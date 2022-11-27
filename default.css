@@ -1,0 +1,171 @@
+p{
+    color: white;
+    font-size: 10pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;    
+}
+h1{
+    color: white;
+    font-size: 18pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 1px none black;
+    margin: -20px;
+}
+h2{
+    color: white;
+    font-size: 12pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#menu{
+    width: 120px;
+    position: absolute;
+    padding: 5px;
+    border: 1px none black;
+    margin: 0px;
+    background: hwb(0 27% 11%);
+    top: 80px;
+    left: 760px;
+    height: 400px;
+    border-style: double;
+    border-width: 8pt;
+    border-color: white;
+
+
+    padding-left: 29px;
+    padding-right: 29px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#logo{
+    position: absolute;
+    width: 880px;
+    top: 0px;
+    left: 0px;
+    border: 2px dashed white;
+    padding: 5px;
+    background: hwb(0 2% 45%);
+    border-style: double;
+    border-width: 8pt;
+    border-color: white;
+
+    
+    padding-left: 29px;
+    padding-right: 29px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#menuesquerda{
+    position: absolute;
+    width: 150px;
+    height: 400px;
+    top: 80px;
+    left: 0px;
+    padding: 5px;
+    background: hwb(0 2% 45%);
+    border-style: double;
+    border-width: 8pt;
+    border-color: white;
+
+    
+    padding-left: 29px;
+    padding-right: 29px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#artigo{
+    position: absolute;
+    width: 600px;
+    top: 80px;
+    left: 198px;
+    padding: 5px;
+    background: hwb(0 2% 45%);
+    border-style: double;
+    border-width: 8pt;
+    border-color: white;
+
+    
+    padding-left: 29px;
+    padding-right: 29px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#rodape{
+    position: absolute;
+    width: 880px;
+    top: 490px;
+    left: 0px;
+    padding: 5px;
+    background: hwb(0 2% 45%);
+    border-style: double;
+    border-width: 8pt;
+    border-color: white;
+
+    
+    padding-left: 29px;
+    padding-right: 29px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.elemento-li{
+    color: white;
+    font-size: 14pt;
+    background-color: white;
+    text-align: justify;
+
+    
+}
+.red{
+    color: white;
+    font-size: 10pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;      
+}
+.azul{
+    color: white;
+    font-size: 10pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;  
+
+    margin-left: 4px;
+    margin-right: 100px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+.roda{
+    color: white;
+    font-size: 10pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;  
+}
